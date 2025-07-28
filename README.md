@@ -1,6 +1,6 @@
 # Resolução de exercícios sobre Streams do Bootcamp Santander 2025 - Back-End com Java
 
-### 📚 Os enunciados podem ser encontrados no repositório [exercicios-java-basico](https://github.com/digitalinnovationone/exercicios-java-basico.git) ou dentro do arquivo "exercicios.md".
+### 📚 Os enunciados podem ser encontrados no repositório [ganhando_produtividade_com_Stream_API_Java](https://github.com/digitalinnovationone/ganhando_produtividade_com_Stream_API_Java.git) ou dentro do arquivo "exercicios.md".
 
 ### 📝Listas de exercício:
 - [Desafio 1](src/desafios/desafio1.java)
