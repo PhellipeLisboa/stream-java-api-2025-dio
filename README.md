@@ -22,4 +22,3 @@
 - [Desafio 17](src/desafios/desafio17.java)
 - [Desafio 18](src/desafios/desafio18.java)
 - [Desafio 19](src/desafios/desafio19.java)
-- [Desafio 20](src/desafios/desafio20.java)
